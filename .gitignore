@@ -1,0 +1,8 @@
+*keys*
+*docs*
+*__pycache__*
+*json*
+.vscode
+archive
+*log*
+*streamlit*

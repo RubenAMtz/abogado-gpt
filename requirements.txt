@@ -1,0 +1,9 @@
+pandas
+tiktoken
+numpy
+openai
+tenacity
+streamlit
+fpdf2
+langchain
+streamlit-chat
